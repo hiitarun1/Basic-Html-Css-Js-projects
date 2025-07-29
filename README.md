@@ -18,11 +18,5 @@ and screeshots as preview
 - CSS3 (Flexbox & Grid)  
 - JavaScript (ES6+)
 
-- ## 📝 How to Use
-
-```bash
-git clone https://github.com/hiitarun1/Html-Css-Js-projects.git
-cd Html-Css-Js-projects/project-name
-open index.html in your browser
 
 
